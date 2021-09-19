@@ -1,1 +1,1 @@
-# Serverless API for SAEAL - AWS IOT CORE challenge
+# Serverless API for SARAL - AWS IOT CORE challenge
